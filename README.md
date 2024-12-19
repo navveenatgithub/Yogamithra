@@ -1,3 +1,7 @@
+![Screenshot 2024-12-19 210748](https://github.com/user-attachments/assets/15bf4b4f-2530-4118-949f-da49ebe27b16)
+
+
+
 This mobile application was developed as part of our Smart India Hackathon (SIH) 2024 project, integrating AI, ML, and IoT technologies to revolutionize personal fitness and yoga practices. Built using React Native, NativeWind CSS, Expo, and Firebase, the app serves as the user-facing interface for our Smart Yoga Mat, providing real-time pose correction and personalized yoga guidance.
 
 The app connects seamlessly with IoT-enabled devices like smartwatches and the Smart Yoga Mat to fetch and analyze real-time data, including pressure points, glucose levels, and other fitness metrics. Leveraging this data, the embedded AI model suggests personalized yoga asanas tailored to the user’s current health and fitness needs.
